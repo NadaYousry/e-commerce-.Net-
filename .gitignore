@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/ecommerce.db
+**/ecommerce.db-shm
+**/ecommerce.db-wal
+.vs/
+.idea/
+**/secrets.json
